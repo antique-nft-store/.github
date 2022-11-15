@@ -1,2 +1,2 @@
 # Antique NFT Store
-![](./banner.jpeg)
+![](/profile/banner.jpeg)
